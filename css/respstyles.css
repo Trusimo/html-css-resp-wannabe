@@ -1,5 +1,21 @@
-@media screen and (maxwidth: 768px) {
+@media screen and (max-width: 768px) {
+    .site-header {
+        width: 1200px;
+    }
+
+    .lessons {
+        width: 1200px;
+    }
+
     .steps  {
         width: 1200px;
+    }
+
+    .why-us {
+        width: 1200px;
+    }
+
+    .container {
+        width: 780px;
     }
 }
